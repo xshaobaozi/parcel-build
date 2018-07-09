@@ -41,3 +41,16 @@
     }
 ```
 
+## sass
+
+```
+    npm install --save node-sass
+```
+
+## Babal
+```
+    npm install --save babel-core 
+    npm install --save babel-loader 
+    npm install --save babel-plugin-transform-runtime 
+    npm install --save babel-preset-stage-2
+```
